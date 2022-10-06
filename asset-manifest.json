@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/n3rub1/ExpensesChartComponent/static/css/main.5cd1b22c.css",
-    "main.js": "/n3rub1/ExpensesChartComponent/static/js/main.4328935a.js",
-    "index.html": "/n3rub1/ExpensesChartComponent/index.html",
-    "static/media/logo.svg": "/n3rub1/ExpensesChartComponent/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
-    "main.5cd1b22c.css.map": "/n3rub1/ExpensesChartComponent/static/css/main.5cd1b22c.css.map",
-    "main.4328935a.js.map": "/n3rub1/ExpensesChartComponent/static/js/main.4328935a.js.map"
+    "main.css": "/ExpensesChartComponent/static/css/main.5cd1b22c.css",
+    "main.js": "/ExpensesChartComponent/static/js/main.d9931d55.js",
+    "index.html": "/ExpensesChartComponent/index.html",
+    "static/media/logo.svg": "/ExpensesChartComponent/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
+    "main.5cd1b22c.css.map": "/ExpensesChartComponent/static/css/main.5cd1b22c.css.map",
+    "main.d9931d55.js.map": "/ExpensesChartComponent/static/js/main.d9931d55.js.map"
   },
   "entrypoints": [
     "static/css/main.5cd1b22c.css",
-    "static/js/main.4328935a.js"
+    "static/js/main.d9931d55.js"
   ]
 }
